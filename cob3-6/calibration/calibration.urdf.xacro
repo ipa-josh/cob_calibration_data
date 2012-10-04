@@ -38,17 +38,17 @@
 	<property name="tray_yaw" value="0"/>
 
 	<!-- torso mount positions | relative to base_link -->
-	<property name="torso_x" value="0.155"/>
-	<property name="torso_y" value="0.0"/>
-	<property name="torso_z" value="0.892"/>
-	<property name="torso_roll" value="1.5707963268"/>
-	<property name="torso_pitch" value="-0.0"/>
-	<property name="torso_yaw" value="0.0"/>
+	<property name="torso_x" value="0.1558235494"/>
+	<property name="torso_y" value="4.39701e-05"/>
+	<property name="torso_z" value="0.8931471437"/>
+	<property name="torso_roll" value="1.572403641"/>
+	<property name="torso_pitch" value="0.0079347255"/>
+	<property name="torso_yaw" value="0.0074178435"/>
 
 	<!-- arm mount positions | relative to base_link -->
-	<property name="arm_x" value="0.04"/>
-	<property name="arm_y" value="-0.005"/>
-	<property name="arm_z" value="0.83637"/>
+	<property name="arm_x" value="0.02997525"/>
+	<property name="arm_y" value="-0.0049586043"/>
+	<property name="arm_z" value="0.8363491605"/>
 	<property name="arm_roll" value="3.14"/>
 	<property name="arm_pitch" value="0.7854"/>
 	<property name="arm_yaw" value="-1.8326"/>
@@ -78,7 +78,7 @@
 	<property name="arm_2_ref" value="0.028978666290640831"/>
 	<property name="arm_3_ref" value="-0.086509302258491516"/>
 	<property name="arm_4_ref" value="-0.029241520911455154"/>
-	<property name="arm_5_ref" value="1.618312954902648"/>  
+	<property name="arm_5_ref" value="0.51512444"/>  
 	<property name="arm_6_ref" value="-0.000278873281786218"/>
 	<property name="arm_7_ref" value="-0.4701393544673919"/>
 
@@ -87,7 +87,7 @@
 	<!-- ***************************** -->
 	<!-- left | handeye calibration | relative to head_axis_link -->
 	<property name="cam_l_x" value="0.0"/>
-	<property name="cam_l_y" value="0.0"/>
+	<property name="cam_l_y" value="0.05"/>
 	<property name="cam_l_z" value="-0.06"/>
 	<property name="cam_l_roll" value="0.0"/>
 	<property name="cam_l_pitch" value="-1.5707963268"/>
@@ -103,7 +103,7 @@
 
 	<!-- cam3d | handeye calibration | relative to head_axis_link -->
 	<property name="cam3d_x" value="-0.002"/>
-	<property name="cam3d_y" value="-0.03"/>
+	<property name="cam3d_y" value="0.02"/>
 	<property name="cam3d_z" value="0.02"/>
 	<property name="cam3d_roll" value="0.0"/>
 	<property name="cam3d_pitch" value="-1.5707963268"/>
